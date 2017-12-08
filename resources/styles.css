@@ -1,3 +1,29 @@
 @charset "utf-8";
 /* CSS Document */
 
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+#header {
+  background-image: url(img/the-flatiron-building.png);
+  background-size: cover
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+  padding-top: 12px
+  
+}
+nav ul {
+  list-style-type: none;
+  padding-bottom: 12px;
+}
+nav li a {
+  color: white;
+  font-size: 18px;
+  line-height: 30px;
+}

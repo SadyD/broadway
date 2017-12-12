@@ -38,3 +38,8 @@ nav li a {
   font-size: 18px;
   line-height: 30px;
 }
+
+#designed {
+  background-image:url(img/the-flatiron-building.png);
+  color: white;
+}

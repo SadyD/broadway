@@ -39,7 +39,23 @@ nav li a {
   line-height: 30px;
 }
 
-#designed {
+#designed h2 {
   background-image:url(img/the-flatiron-building.png);
   color: white;
+}
+
+#footer{
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
+#footer ul li {
+  list-style: none;
+  display: inline-block;
+  padding-right: 5px;
+}
+#footer a{
+  color:white;
+  font-size: 20px;
 }
